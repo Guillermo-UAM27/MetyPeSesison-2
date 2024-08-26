@@ -1,0 +1,14 @@
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\bin\Debug\net8.0\sesion2.exe
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\bin\Debug\net8.0\sesion2.deps.json
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\bin\Debug\net8.0\sesion2.runtimeconfig.json
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\bin\Debug\net8.0\sesion2.dll
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\bin\Debug\net8.0\sesion2.pdb
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.AssemblyInfoInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.AssemblyInfo.cs
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.dll
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\refint\sesion2.dll
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.pdb
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\sesion2.genruntimeconfig.cache
+C:\Users\guill\OneDrive\Documentos\c#2\sesion2\sesion2\obj\Debug\net8.0\ref\sesion2.dll

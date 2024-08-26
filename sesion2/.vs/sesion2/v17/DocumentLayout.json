@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guill\\OneDrive\\Documentos\\c#2\\sesion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB5E5FC-CFF3-4183-9E3D-0C5F2F3EC6BE}|sesion2\\sesion2.csproj|c:\\users\\guill\\onedrive\\documentos\\c#2\\sesion2\\sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB5E5FC-CFF3-4183-9E3D-0C5F2F3EC6BE}|sesion2\\sesion2.csproj|solutionrelative:sesion2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AB5E5FC-CFF3-4183-9E3D-0C5F2F3EC6BE}|sesion2\\sesion2.csproj|c:\\users\\guill\\onedrive\\documentos\\c#2\\sesion2\\sesion2\\clases\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB5E5FC-CFF3-4183-9E3D-0C5F2F3EC6BE}|sesion2\\sesion2.csproj|solutionrelative:sesion2\\clases\\clase\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\c#2\\sesion2\\sesion2\\clases\\Clase\\Persona.cs",
+              "RelativeDocumentMoniker": "sesion2\\clases\\Clase\\Persona.cs",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\c#2\\sesion2\\sesion2\\clases\\Clase\\Persona.cs",
+              "RelativeToolTip": "sesion2\\clases\\Clase\\Persona.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:31:33.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\OneDrive\\Documentos\\c#2\\sesion2\\sesion2\\Program.cs",
+              "RelativeDocumentMoniker": "sesion2\\Program.cs",
+              "ToolTip": "C:\\Users\\guill\\OneDrive\\Documentos\\c#2\\sesion2\\sesion2\\Program.cs",
+              "RelativeToolTip": "sesion2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:27:09.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

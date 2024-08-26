@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrmPrincipal.cs1", "MiApp1\FrmPrincipal.cs1.csproj", "{A49A5B73-2559-45BC-9CFE-EFF091653967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49A5B73-2559-45BC-9CFE-EFF091653967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49A5B73-2559-45BC-9CFE-EFF091653967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49A5B73-2559-45BC-9CFE-EFF091653967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49A5B73-2559-45BC-9CFE-EFF091653967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7ACE060-97C4-4352-A231-7CF8B630524E}
+	EndGlobalSection
+EndGlobal

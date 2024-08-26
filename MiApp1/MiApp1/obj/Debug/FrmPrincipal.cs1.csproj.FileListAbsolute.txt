@@ -1,0 +1,10 @@
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\bin\Debug\MiApp1.exe.config
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\bin\Debug\MiApp1.exe
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\bin\Debug\MiApp1.pdb
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\FrmPrincipal.cs1.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\MiApp1.Form1.resources
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\MiApp1.Properties.Resources.resources
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\FrmPrincipal.cs1.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\FrmPrincipal.cs1.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\MiApp1.exe
+C:\Users\guill\OneDrive\Documentos\c#2\MiApp1\MiApp1\obj\Debug\MiApp1.pdb
